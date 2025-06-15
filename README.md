@@ -17,8 +17,10 @@ Intruções do Projeto:
 
 EXEMPLOS DE USO:
 Terminal completo com algumas das possibilidades de uso, com o analisador de suspeitas funcionando com o limite de até R$10000
+
 ![image](https://github.com/user-attachments/assets/dc3fc47f-2705-4491-bc83-c3b9aa2c9a51)
 
 Terminal com o usuário tentando fazer mais de três transferências em menos de 5 segundos
+
 ![image](https://github.com/user-attachments/assets/710ebe9c-e12f-4ed7-802c-ff4dfa14a7ce)
 
