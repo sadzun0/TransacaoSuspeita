@@ -1,4 +1,4 @@
-# A3 - Transação Suspeita.
+# A3 - Transação Suspeita - CASO 2.
 
 Objetivo:
 Este trabalho foi desenvolvido para a Universidade Anhembi Morumbi, Campus Mooca, como parte da atividade avaliativa A3 da disciplina de programação. O objetivo principal é a criação de um sistema capaz de detectar transações bancárias suspeitas, utilizando regras simples de verificação.
@@ -24,3 +24,4 @@ Terminal com o usuário tentando fazer mais de três transferências em menos de
 
 ![image](https://github.com/user-attachments/assets/710ebe9c-e12f-4ed7-802c-ff4dfa14a7ce)
 
+**Desenvolvido por Elias Pereira de Mendonça, Bruno, Kevin Lima – Anhembi Morumbi – Campus Mooca**
